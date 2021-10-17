@@ -1,2 +1,2 @@
 # calc_at_skew
-AT skewを計算する。
+sample.txt情報から、AT skewを計算する。
